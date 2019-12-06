@@ -1,0 +1,8 @@
+[options]
+random = false
+blend-msecs = 500
+timeout = 8
+verbose = false
+auto-up = true
+auto-down = true
+
