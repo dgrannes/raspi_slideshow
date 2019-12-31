@@ -1,16 +1,16 @@
 # Sunday: on at 7am, off at 9pm
-0  7 * * sun /home/pi/monitor_on.csh
-0 21 * * sun /home/pi/monitor_off.csh
+0  7 * * sun /home/pi/monitor_on.bash
+0 21 * * sun /home/pi/monitor_off.bash
 
 # Wednesday: on at 8am, off at 9pm
-0  8 * * wed /home/pi/monitor_on.csh
-0 21 * * wed /home/pi/monitor_off.csh
+0  8 * * wed /home/pi/monitor_on.bash
+0 21 * * wed /home/pi/monitor_off.bash
 
 # Saturday: on at 7am, off at 9pm
-0  7 * * sat /home/pi/monitor_on.csh
-0 21 * * sat /home/pi/monitor_off.csh
+0  7 * * sat /home/pi/monitor_on.bash
+0 21 * * sat /home/pi/monitor_off.bash
 
 # Other days: on at 8am, off at 5pm
-0  8 * * mon,tue,thu,fri /home/pi/monitor_on.csh
-0 17 * * mon,tue,thu,fri /home/pi/monitor_off.csh
+0  8 * * mon,tue,thu,fri /home/pi/monitor_on.bash
+0 17 * * mon,tue,thu,fri /home/pi/monitor_off.bash
 
