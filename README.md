@@ -1,6 +1,9 @@
 # raspi_slideshow
 Files for making a slideshow program on the raspberry pi
 
+See step-by-step instructions at:
+https://www.instructables.com/id/Raspberry-Pi-Bulletin-Board
+
 Files:
 - .fbirc: gets copied to home directory:
 ` cp .fbirc ~`
